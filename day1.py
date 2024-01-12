@@ -1,7 +1,6 @@
+# Create a program that swaps the values of two variables
 # @author - Addie Domanico
 # @version - 01/10/2024
-
-# Create a program that swaps the values of two variables
 
 # Receive user input for two variables
 value1 = input("Enter the first value (number or letter): ")
