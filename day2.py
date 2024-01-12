@@ -1,11 +1,8 @@
+# Create a program to calculate the area of a circle given its radius.
 # @author - Addie Domanico
 # @version - 01/11/2024
 
-# Create a program to calculate the area of a circle given its radius.
-
-# Import pi constant
 from math import pi
-
 
 while True:
     # Prompt the user to input the radius of the circle
