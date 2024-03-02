@@ -5,4 +5,4 @@ I have committed to participating in the challenge for the next 60 days, January
 Through a WWC Slack Channel, each day a new Python prompt was delivered to be solved.
 Each completed prompt has been included here.
 
-![Women Who Code 60 Days of Code Completion Badge] ()
+![Women Who Code 60 Days of Code Completion Badge] (/assets/images/60 DaysWWCodeDaysofCode2024CompletionBadgeforParticipants.png)
