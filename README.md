@@ -8,3 +8,4 @@ I decided to participate in this challenge to take a personal initiative in deve
 
 
 ![Women Who Code 60 Days of Code Completion Badge](https://github.com/adomanico001/PythonDaysofCode/assets/102832335/83043ef3-6344-4fc7-a0d1-4c505642b64c =300x300)
+![60 Days WWCode Days of Code 2024 Completion Badge for Participants] <img src="https://github.com/adomanico001/PythonDaysofCode/assets/102832335/d1750af9-1cd9-4f07-ac11-a0b54bf8ac26" width="300" height="300">
